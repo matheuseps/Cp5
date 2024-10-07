@@ -1,0 +1,6 @@
+C:\Users\BRMAPER13\Downloads\Cp5\obj\Debug\net6.0\Cp5.csproj.AssemblyReference.cache
+C:\Users\BRMAPER13\Downloads\Cp5\obj\Debug\net6.0\Cp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRMAPER13\Downloads\Cp5\obj\Debug\net6.0\Cp5.AssemblyInfoInputs.cache
+C:\Users\BRMAPER13\Downloads\Cp5\obj\Debug\net6.0\Cp5.AssemblyInfo.cs
+C:\Users\BRMAPER13\Downloads\Cp5\obj\Debug\net6.0\Cp5.csproj.CoreCompileInputs.cache
+C:\Users\BRMAPER13\Downloads\Cp5\obj\Debug\net6.0\Cp5.MvcApplicationPartsAssemblyInfo.cache
